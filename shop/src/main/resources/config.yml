@@ -1,0 +1,59 @@
+# 玩家默认金币数
+Money: 100
+# 击杀生物赚取的最少金币
+MIN_Earned: 1
+# 击杀生物赚取的最高金币
+MAX_Earned: 5
+shop:
+  # 商店物品枚举名
+  goods:
+    - 'IRON_INGOT'
+    - 'COPPER_INGOT'
+    - 'GOLD_INGOT'
+    - 'LAPIS_LAZULI'
+    - 'EMERALD'
+    - 'DIAMOND'
+    - 'NETHERITE_INGOT'
+    - 'IRON_BLOCK'
+    - 'COPPER_BLOCK'
+    - 'GOLD_BLOCK'
+    - 'LAPIS_BLOCK'
+    - 'EMERALD_BLOCK'
+    - 'DIAMOND_BLOCK'
+    - 'NETHERITE_BLOCK'
+    - 'ENCHANTED_GOLDEN_APPLE'
+    - 'HEART_OF_THE_SEA'
+    - 'ENDER_PEARL'
+    - 'NETHER_STAR'
+    - 'BLAZE_ROD'
+    - 'SHULKER_SHELL'
+    - 'CONDUIT'
+    - 'TNT'
+    - 'PHANTOM_MEMBRANE'
+    - 'EXPERIENCE_BOTTLE'
+    - 'FIREWORK_ROCKET'
+    - 'DIAMOND_HORSE_ARMOR'
+    - 'TRIDENT'
+    - 'TOTEM_OF_UNDYING'
+  # 商品价格
+  goodsPrices: [5,10,15,20,25,30,50,45,90,135,180,225,270,450,100,120,50,200,30,30,200,60,40,50,15,50,120,200]
+  # 商店物品下标
+  goodsPlace: [10,11,12,13,14,15,16,19,20,21,22,23,24,25,28,29,30,31,32,33,34,37,38,39,40,41,42,43]
+  # 商店装饰品下标
+  trimPlace: [ 0,1,2,3,4,5,6,7,8,9,17,18,26,27,35,36,44,45,46,47,48,49,50,51,52,53 ]
+text:
+  # 插件开启信息
+  pluginStart: '§a欢迎使用MC商店插件'
+  # 插件关闭信息
+  pluginStop: '§4MC商店插件已关闭，期待您下次使用'
+  # 商店界面标题
+  shopTitle: 'MC商店'
+  # 商店装饰品名字
+  trimName: '欢迎使用MC商店'
+  # 商店装饰品内容
+  trimContent:
+    - '该商店用于简化物品的获取流程'
+    - '击杀任意生物可以掉落随机金币'
+    - '通过金币可以购买商店任意物品'
+  # 货币名称
+  coin: '金币'

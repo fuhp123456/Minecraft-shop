@@ -1,0 +1,9 @@
+com\fhp\shop\inventory\ShopGUI.class
+com\fhp\shop\listener\LoginListener.class
+com\fhp\shop\command\Command.class
+com\fhp\shop\listener\KillListener$1.class
+com\fhp\shop\Shop.class
+com\fhp\shop\manager\CoinManager.class
+com\fhp\shop\listener\ShopListener.class
+com\fhp\shop\listener\KillListener.class
+com\fhp\shop\manager\ConfigManager.class

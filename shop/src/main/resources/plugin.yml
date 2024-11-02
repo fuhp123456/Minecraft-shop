@@ -1,0 +1,10 @@
+name: shop
+version: '1.0'
+main: com.fhp.shop.Shop
+api-version: '1.20'
+author: 'FuHuangPei'
+#指令
+commands:
+  shopping:
+    description: 开启一个可以使用金币购物的商店
+    usage: /shopping
